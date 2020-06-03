@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Michael Scott",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/b/be/Character_-_MichaelScott.PNG",
+        "branch": "Scranton",
+        "department": "Management",
+        "position": "Regional Manager",
+        "email": "mscott@dundermifflin.com",
+        "ext": 1001
+    },
+    {
+        "name": "Pam Beasley",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/6/67/Pam_Beesley.jpg",
+        "branch": "Scranton",
+        "department": "Office Administration",
+        "position": "Receptionist",
+        "email": "pbeasley@dundermifflin.com",
+        "ext": 1000
+    },
+    {
+        "name": "Jim Halpert",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/e/e9/Character_-_JimHalpert.PNG",     
+        "branch": "Scranton",
+        "department": "Sales",
+        "position": "Salesman",
+        "email": "jhalpert@dundermifflin.com",
+        "ext": 1002
+    },
+    {
+        "name": "Dwight Schrute",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/c/c5/Dwight_.jpg",
+        "branch": "Scranton",
+        "department": "Sales",
+        "position": "Salesman",
+        "email": "dschrute@dundermifflin.com",
+        "ext": 1003
+    },
+    {
+        "name": "Phyllis Lapin",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/e/e6/Phyllis_Vance.jpg",
+        "branch": "Scranton",
+        "department": "Sales",
+        "position": "Salesman",
+        "email": "plapin@dundermifflin.com",
+        "ext": 1004
+    },
+    {
+        "name": "Stanley Hudson",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/2/23/Stanley_Hudson.jpg",
+        "branch": "Scranton",
+        "department": "Sales",
+        "position": "Salesman",
+        "email": "shudson@dundermifflin.com",
+        "ext": 1005
+    },
+    {
+        "name": "Angela Martin",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/0/0b/Angela_Martin.jpg",
+        "branch": "Scranton",
+        "department": "Accounting",
+        "position": "Accountant",
+        "email": "amartin@dundermifflin.com",
+        "ext": 1006
+    },
+    {
+        "name": "Oscar Martinez",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/2/25/Oscar_Martinez.jpg",
+        "branch": "Scranton",
+        "department": "Accounting",
+        "position": "Acountant",
+        "email": "omartinez@dundermifflin.com",
+        "ext": 1007
+    },
+    {
+        "name": "Kevin Malone",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/b/b2/2009Kevincropped.PNG",
+        "branch": "Scranton",
+        "department": "Accounting",
+        "position": "Accountant",
+        "email": "kmalone@dundermifflin.com",
+        "ext": 1008
+    },
+    {
+        "name": "Meredith Palmer",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/9/90/2009Meredith.jpg",
+        "branch": "Scranton",
+        "department": "Vendor Relation",
+        "position": "Accounts Manager",
+        "email": "mpalmer@dundermifflin.com",
+        "ext": 1009
+    },
+    {
+        "name": "Creed Bratton",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/2/20/2009Creed.jpg",
+        "branch": "Scranton",
+        "department": "Vendor Relation",
+        "position": "Quality Assurance",
+        "email": "cbratton@dundermifflin.com",
+
+        "ext": 1010
+    },
+    {
+        "name": "Ryan Howard",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/e/e0/Character_-_RyanHoward.PNG",
+        "branch": "Scranton",
+        "department": "Office Administration",
+        "position": "Temp",
+        "email": "rhoward@dundermifflin.com",
+
+        "ext": 1011
+    },
+    {
+        "name": "Toby Flenderson",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/5/55/2009TobyCropped.PNG",
+        "branch": "Scranton",
+        "department": "Human Resources",
+        "position": "Human Resource Specialist",
+        "email": "tflenderson@dundermifflin.com",
+
+        "ext": 1012
+    },
+    {
+        "name": "Kelly Kapoor",
+        "img": "https://vignette.wikia.nocookie.net/theoffice/images/6/69/Kelly_Kapoor.jpg",
+        "branch": "Scranton",
+        "department": "Customer Relation",
+        "position": "Customer Relations Manager",
+        "email": "kkapoor@dundermifflin.com",
+        "ext": 1013
+    }
+]
